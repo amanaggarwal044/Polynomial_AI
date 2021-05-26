@@ -1,0 +1,2 @@
+rootProject.name = "Polynomial Test"
+include ':app'
